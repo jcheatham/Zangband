@@ -4720,7 +4720,7 @@ extern int PlayerUID;
 #define TERM_UMBER				3  /* 'o' */	/* 4,2,0 */
 #define TERM_BLUE				4  /* 'r' */	/* 3,0,0 */
 #define TERM_VIOLET				5  /* 'g' */	/* 0,2,1 */
-#define TERM_BLUE				6  /* 'b' */	/* 0,0,4 */
+#define TERM_YELLOW				6  /* 'b' */	/* 0,0,4 */
 #define TERM_WHITE				7  /* 'u' */	/* 2,1,0 */
 #define TERM_L_DARK				8  /* 'D' */	/* 1,1,1 */
 #define TERM_L_RED				9  /* 'W' */	/* 3,3,3 */

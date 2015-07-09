@@ -4066,8 +4066,8 @@ bool project(int who, int rad, int x, int y, int dam, int typ, u16b flg)
 {
 	int i, j, t, dist;
 
-	int y1, x1;
-	int y2, x2;
+	int y1 = y, x1 = x;
+	int y2 = y, x2 = x;
 
 	int dist_hack = 0;
 

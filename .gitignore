@@ -1,0 +1,12 @@
+.default_path
+.makefiles
+lib/apex/scores.raw
+lib/data/*.raw
+src/*.o
+src/autoconf.h
+src/l-*.c
+src/lua/*.o
+src/lua/tolua
+config.log
+config.status
+zangband
